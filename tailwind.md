@@ -29,7 +29,6 @@ package.json
 npm run build
 
 
-*Chris Demo*
 laravel new
 php artisan serve  *artisan is CLI* *Composer is package manager*
 
