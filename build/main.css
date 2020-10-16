@@ -1,0 +1,21 @@
+body {
+  font-family: gopher,sans-serif;
+  font-weight: 400;
+  background-color:#08182E;
+}
+
+.gopher {
+  font-family: gopher,sans-serif;
+  font-weight: 400;
+}
+
+::-moz-selection {
+  background-color: #9AE6B4;
+  color: white;
+}
+
+::selection {
+  background-color: #9AE6B4;
+  color: white;
+}
+
