@@ -1,5 +1,5 @@
 body {
-  font-family: gopher,sans-serif;
+  font-family: gopher,sans-serif !important;
   font-weight: 400;
   background-color:#08182E;
 }
